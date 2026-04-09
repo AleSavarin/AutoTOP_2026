@@ -1,0 +1,2 @@
+Copiar carpeta al archivo de salida.
+Más adelante ver de que lo "chupe" desde aquí.

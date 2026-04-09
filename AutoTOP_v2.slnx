@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Autotop.Application/Autotop.Application.csproj" />
+  <Project Path="Autotop.Domain/Autotop.Domain.csproj" />
+  <Project Path="Autotop.Infrastructure/Autotop.Infrastructure.csproj" />
+  <Project Path="Autotop.Wpf/Autotop.Wpf.csproj" />
+</Solution>
